@@ -1,3 +1,5 @@
+streamlit
+
 # Project 2: Factorial calculation app
 ## Functional requirements:  
 * Enter an integer: User can enter integer to calculate fatorial. 
