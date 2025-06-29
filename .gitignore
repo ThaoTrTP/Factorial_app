@@ -1,0 +1,19 @@
+# Bỏ qua thư mục chứa file biên dịch Python
+__pycache__/
+*.py[cod]
+
+# Môi trường ảo (nếu bạn tạo bên trong thư mục)
+env/
+venv/
+.venv/
+
+# Thông tin cá nhân / bảo mật (nếu dùng)
+.env
+
+# VS Code workspace settings (nếu có)
+.vscode/
+
+# File tạm hoặc hệ thống
+*.log
+.DS_Store
+Thumbs.db
